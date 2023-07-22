@@ -6,12 +6,16 @@ Web Developer
 
 I have been studying coding for four years and am interested in transitioning to a new career. My focus has been on front-end development, but I am also proficient in back-end development.
 
-*   🌍  I'm based in South Carolina
-*   🖥️  See my portfolio at [Vercel made with Astro](http://astro-portfolio-ruby.vercel.app/)
-*   ✉️  You can contact me at [Travontazlowry@gmail.com](mailto:Travontazlowry@gmail.com)
-*   🧠  I'm learning Vue, Nuxt, Go, Angular, Django
-*   🤝  I'm open to collaborating on anything
-*   ⚡  I love basketball and football, I should've went pro.### Skills 
+* 🌍  I'm based in South Carolina
+* 🖥️  See my portfolio at [Vercel made with Astro](http://astro-portfolio-ruby.vercel.app/)
+* ✉️  You can contact me at [Travontazlowry@gmail.com](mailto:Travontazlowry@gmail.com)
+* 🧠  I'm learning Vue, Nuxt, Go, Angular, Django
+* 🤝  I'm open to collaborating on anything
+* ⚡  I love basketball and football, I should've went pro.
+
+### Skills
+
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -39,19 +43,14 @@ I have been studying coding for four years and am interested in transitioning to
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/deiontre10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/travontazlowry/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/deiontre10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.youtube.com/c/deiontre10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitch.tv/deiontre10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/deiontre10"><img src="https://github-readme-stats.vercel.app/api?username=deiontre10&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="deiontre10's GitHub stats" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/deiontre10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/travontazlowry/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/deiontre10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/deiontre10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/deiontre10" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/deiontre10"><img src="https://github-readme-stats.vercel.app/api?username=deiontre10&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="deiontre10's GitHub stats" /></a>
