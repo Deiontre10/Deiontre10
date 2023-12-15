@@ -7,7 +7,7 @@ Web Developer
 I have been studying coding for four years and am interested in transitioning to a new career. My focus has been on front-end development, but I am also proficient in back-end development.
 
 * 🌍  I'm based in South Carolina
-* 🖥️  See my portfolio at [Vercel made with Astro](http://astro-portfolio-ruby.vercel.app/)
+* 🖥️  See my portfolio at [Portfolio](http://astro-portfolio-ruby.vercel.app/)
 * ✉️  You can contact me at [Travontazlowry@gmail.com](mailto:Travontazlowry@gmail.com)
 * 🧠  I'm learning Vue, Nuxt, Go, Angular, Django
 * 🤝  I'm open to collaborating on anything
