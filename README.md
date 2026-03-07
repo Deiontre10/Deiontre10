@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I have been studying coding for four years and am interested in transitioning to a new career. My focus has been on front-end development, but I am also proficient in back-end development.
+Down to earth, lovable and decent programmer. My focus has been on front-end development, but I am also proficient in back-end development.
 
 * 🌍  I'm based in South Carolina
-* 🖥️  See my portfolio at [Portfolio](http://astro-portfolio-ruby.vercel.app/)
+* 🖥️  See my portfolio at [Portfolio]([https://dub.sh/TazPortfolio])
 * ✉️  You can contact me at [Travontazlowry@gmail.com](mailto:Travontazlowry@gmail.com)
-* 🧠  I'm learning Vue, Nuxt, Go, Angular, Django
+* 🧠  I'm learning Go and TypeScript
 * 🤝  I'm open to collaborating on anything
 * ⚡  I love basketball and football, I should've went pro.
 
